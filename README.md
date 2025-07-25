@@ -10,4 +10,4 @@ chmod +x VulnSweep.py
 sudo cp VulnSweep.py /usr/local/bin/VulnSweep
 ```
 
-📖 Read the documentation: [https://example.com/doc](https://medium.com/@mohaned0101/the-tool-that-gave-me-the-first-bounty-9303cac972a3)
+📖 Read the documentation: [click me](https://medium.com/@mohaned0101/the-tool-that-gave-me-the-first-bounty-9303cac972a3)
