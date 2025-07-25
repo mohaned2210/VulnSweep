@@ -1,5 +1,4 @@
-# pip install slackclient
-# pip install PySocks
+#!/usr/bin/env python3
 from termcolor import colored
 import re
 from html import escape
