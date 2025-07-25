@@ -1,2 +1,2 @@
 # VulnSweep
-best public tool to scan for XSS, LFI, SSRF, SQL injection
+A powerful open-source tool for detecting web vulnerabilities, including XSS, LFI, SSRF, and SQL Injection.
