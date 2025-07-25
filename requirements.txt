@@ -1,0 +1,5 @@
+termcolor
+socks
+PySocks
+slack_sdk
+slackclient
