@@ -1154,8 +1154,8 @@ def main():
                         help='Use simple XSS payloads, ex: <hello11>')
     parser.add_argument('-o', '--output', type=str, metavar='FILE', help='Output file to save results')
     parser.add_argument('--timeout', type=int, default=31, metavar='SEC', help='Request timeout in seconds, default=31')
-    parser.add_argument('--attack-timeout', type=int, default=360, metavar='HOURS',
-                        help='Maximum time (in hours) to spend on each attack type, default=360 (360 hours)')
+    parser.add_argument('--attack-timeout', type=int, default=3, metavar='HOURS',
+                        help='Maximum time (in hours) to spend on each attack type, default=3 (3 hours)')
     parser.add_argument('--debug', action='store_true', help='Enable debug info')
     parser.add_argument('-p', '--proxy', type=str, metavar='URL',
                         help='Proxy to use (e.g., http://127.0.0.1:7080, socks4://127.0.0.1:1080, socks5://127.0.0.1:1080, or socks5h://127.0.0.1:1080)')
