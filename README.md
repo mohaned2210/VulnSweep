@@ -12,6 +12,7 @@ sudo cp VulnSweep.py /usr/local/bin/VulnSweep
 
 📖 Read the documentation: [Click Me](https://medium.com/@mohaned0101/the-tool-that-gave-me-the-first-bounty-9303cac972a3)
 
+
 ⚠️ Disclaimer
 This tool is intended solely for educational and authorized testing purposes.
 Do not use it to target systems or networks without explicit permission from the owner.
