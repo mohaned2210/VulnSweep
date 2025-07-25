@@ -1,5 +1,5 @@
 # VulnSweep
-A powerful open-source tool for detecting web vulnerabilities, including XSS, LFI, SSRF, and SQL Injection.
+A powerful open-source tool for detecting web vulnerabilities in URL parameters, including XSS, LFI, SSRF, and SQL Injection.
 
 install:
 ```
